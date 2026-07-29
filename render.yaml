@@ -12,11 +12,3 @@ services:
     envVars:
       - key: NODE_VERSION
         value: 20.11.0
-      - key: VITE_SUPABASE_URL
-        value: https://xxqnasqelnuforpebtiq.supabase.co
-      - key: VITE_SUPABASE_ANON_KEY
-        value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsImJlZiI6Inh4cW5hc3FlbG51Zm9ycGVidGlxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODM0MDg3MDUsImV4cCI6MjA5ODk4NDcwNX0.npH0AkP78vJUYL8PYLj1W5VXvf5tPLPPbM_RNoJKZRo
-      - key: VITE_CLOUDINARY_CLOUD_NAME
-        sync: false
-      - key: VITE_CLOUDINARY_UPLOAD_PRESET
-        sync: false
